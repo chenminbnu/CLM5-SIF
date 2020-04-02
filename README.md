@@ -1,2 +1,2 @@
 # CLM5-SIF
-code and data for CLM-5-SIF Project
+code and data for CLM5-SIF Project
